@@ -1,3 +1,4 @@
+package JavaExperimentation;
 import java.io.*;
 public class LAverage
 {
